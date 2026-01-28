@@ -43,7 +43,7 @@ Soy un desarrollador con mentalidad **Solopreneur**, especializado en la creaci�
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO">
+  <a href="https://www.linkedin.com/in/Tcsir23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -51,14 +51,14 @@ Soy un desarrollador con mentalidad **Solopreneur**, especializado en la creaci�
 <!--
 **Cinfante22/Cinfante22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Cristhian! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **AI-powered trading bots** and exploring a **virtual clothing store** concept.
+- 🌱 I’m currently learning **Cybersecurity** and working toward my **Google Cloud Digital Leader** certification.
+- 👯 I’m looking to collaborate on **n8n automation** and **solopreneur AI business solutions**.
+- 🤔 I’m looking for help with **refining Python scripts** for automated trading and market analysis.
+- 💬 Ask me about **Psychology**, **AI Prompt Engineering**, or using **Peppermint OS**.
+- 📫 How to reach me: [linkedin.com/in/csir23](https://www.linkedin.com/in/csir23)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Contrary to popular opinion, I do like onions! 🧅
 -->
